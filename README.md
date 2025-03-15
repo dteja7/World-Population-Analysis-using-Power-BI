@@ -1,5 +1,7 @@
 🌍 World Population Analysis – Data-Driven Insights
 
+![World Population Project image](https://github.com/user-attachments/assets/7877f81e-f3c7-4931-948d-52678bfbb7df)
+
 📌 Project Overview
 
 This project analyzes global population trends using Power BI to visualize key insights on population growth, density, and country-wise demographics. The analysis helps understand historical trends, regional differences, and future projections based on available data.
